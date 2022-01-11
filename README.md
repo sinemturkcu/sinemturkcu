@@ -5,9 +5,10 @@ I am a 3rd year student at Eskişehir Technical University, Department of Comput
 
 🌱 I’m currently learning ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemturkcu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinemturkcu&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemturkcu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinemturkcu&theme=dracula&show_icons=true)  
 
 ## 💻 Skills and Experience
 <h3 align="left">Languages and Tools:</h3>
