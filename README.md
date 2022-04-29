@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## My name is Sinem Türkçü
 
-I am a 3rd year student at Eskişehir Technical University, Department of Computer Engineering.
+I am a 3rd year student at Eskişehir Technical University, Department of Computer Engineering. <br>
+I am working with Bentego company as full stack developer position for two month. Also I’m currently working for Kodluyoruz Internship Programme.
+After graduation, I want to work as a Full Stack Developer. I attend trainings in this field and develop projects using new technologies.
 
 🌱 I’m currently learning ...
 
