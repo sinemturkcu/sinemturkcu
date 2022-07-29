@@ -5,7 +5,7 @@ I am a 3rd year student at Eskişehir Technical University, Department of Comput
 I am working with Bentego company as full stack developer position for three month. Also I’m currently working for Kodluyoruz Internship Programme.
 After graduation, I want to work as a Full Stack Developer. I attend trainings in this field and develop projects using new technologies.
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning MongoDb, Next.js and React ..
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinemturkcu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
