@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">I am a 4th year student at Eskişehir Technical University, Department of Computer Engineering. After graduation, I want to work as a Full Stack Developer. I attend training in this field and develop projects using new technologies.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **backend technologies**
 - 🔭 I’m currently working on **Ticket Application**   
 - 📫 How to reach me **https://linkedin.com/in/sinem-türkçü**
 
